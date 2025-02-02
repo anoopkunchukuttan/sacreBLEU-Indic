@@ -22,6 +22,7 @@ _TOKENIZERS = {
     'intl': 'tokenizer_intl.TokenizerV14International',
     'char': 'tokenizer_char.TokenizerChar',
     'ja-mecab': 'tokenizer_ja_mecab.TokenizerJaMecab',
+    'indic': 'tokenizer_indic.TokenizerIndic',
 }
 
 
